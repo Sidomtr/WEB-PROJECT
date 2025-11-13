@@ -1,0 +1,8 @@
+nav li {
+	display: inline-block;
+	margin: 50px;
+}
+
+nav ul{ 
+	text-align: center;
+}
